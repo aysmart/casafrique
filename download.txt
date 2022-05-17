@@ -1,0 +1,55 @@
+<!-- =================================
+				  "Download App" 
+			================================== -->
+			<!-- Parallax Section -->
+			<div class="parallax-section white-content" data-stellar-background-ratio="0.3" data-parallax-background-image="image123.jpg">
+				<!-- Parallax Section Inner -->
+				<div class="parallax-section-inner  gradient-BG2">
+
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-12">
+
+								<!-- Flat Section Title -->
+								<div class="flat-section-title text-center">
+									<h4 class="subheader">For your Smart Devices</h4>
+									<h1>Download The Bright App!</h1>
+								</div><!-- End Flat Section Title -->
+
+							</div><!-- End col-sm-12 -->
+
+							<div class="col-md-12 text-center">
+
+								<ul class="download-app-list">
+									<li>
+										<a class="download-btn" href="#">
+											<i class="fa fa-apple"></i>
+											iPhone
+										</a>										
+									</li>
+									<li>
+										<a class="download-btn" href="#">
+											<i class="fa fa-android"></i>
+											Android
+										</a>
+									</li>
+									<li>
+										<a class="download-btn" href="#">
+											<i class="fa fa-windows"></i>
+											Windows
+										</a>
+									</li>
+									<li>
+										<a class="download-btn" href="#">
+											<i class="fa fa-desktop"></i>
+											Desktop
+										</a>
+									</li>
+								</ul><!-- End Download App List -->
+
+							</div><!-- End col-md-12 -->
+						</div><!-- End Row -->
+					</div><!-- End Container -->
+
+				</div><!-- End Parallax Section Inner -->
+			</div><!-- End Parallax Section -->
